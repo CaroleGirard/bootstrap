@@ -1,3 +1,7 @@
+
+.navbar-brand {
+    color: #fff;
+}
 .all-cards {
     display: flex;
     flex-direction: row;
