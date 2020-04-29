@@ -1,6 +1,5 @@
-
-.navbar-brand {
-    color: #fff;
+.carousel-item {
+    max-height: 512px;
 }
 .all-cards {
     display: flex;
